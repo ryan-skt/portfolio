@@ -26,7 +26,7 @@ Smooth animations & UI interactions
 
 Installation & Setup
 # Clone the repository
-git clone https://github.com/vikramAditya04/Portfolio/tree/main/my-portfolio
+git clone https://github.com/ryan-skt/portfolio/tree/main/my-portfolio
 
 # Navigate to project folder
 cd my-portfolio
@@ -38,18 +38,17 @@ npm install
 npm run dev
 
 Screenshots:
-<img width="1895" height="912" alt="image" src="https://github.com/user-attachments/assets/f60ef4f9-6a0e-4931-a21a-ef0798d5922a" />
-<img width="1901" height="908" alt="image" src="https://github.com/user-attachments/assets/4a4b2090-0d54-43d8-977f-17f891036b24" />
-
+<img width="1470" height="834" alt="Screenshot 2026-03-30 at 5 23 57 AM" src="https://github.com/user-attachments/assets/3091d40c-58d5-4793-a69a-cc9f1540fbc0" />
+<img width="1436" height="827" alt="Screenshot 2026-03-30 at 5 24 35 AM" src="https://github.com/user-attachments/assets/f39108eb-506a-4997-ad48-68e9b6995c76" />
 
 
 Live Demo:
-https://vikramadityadev.vercel.app/
+https://ryan-portfolio-bice.vercel.app/
 
 Contact:
 
 If you’d like to connect or share feedback — feel free 😊
-LinkedIn: https://www.linkedin.com/ryansivakoti
+LinkedIn: https://www.linkedin.com/ryan-skt
 
 Support:
 
